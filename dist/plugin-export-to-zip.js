@@ -7204,7 +7204,7 @@
                 {
                   addExportBtn: !0,
                   btnLabel: 'Export to ZIP',
-                  filenamePfx: 'grapesjs_template',
+                  filenamePfx: 'codeless_code',
                   filename: void 0,
                   done: function () {},
                   onError: console.error,
